@@ -25,7 +25,7 @@ Please install [Flutter](https://docs.flutter.dev/get-started/install) before st
 
 Clone this project in CMD:
 ```bash
-git clone [xxx]
+git clone https://github.com/TranDKhoi/burningbros-assignment.git
 ```
 Open project with you favorite IDE, then run this command:
 ```bash
@@ -41,7 +41,9 @@ flutter run --release
 ```
 
 ## Preview
+<img src="https://github.com/user-attachments/assets/a6978158-878d-4fe2-ad22-03269a911899" width="200"/>
+<img src="https://github.com/user-attachments/assets/d2f10bd4-53d4-40da-bd65-7da8289f5d62" width="200"/>
+<img src="https://github.com/user-attachments/assets/a7b7584e-1d2d-430e-a102-2ceb9b8f0b2f" width="200"/>
 
 
-[xxx]
 
